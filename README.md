@@ -1,4 +1,4 @@
-# A compact (yet limited) bash sha1 implementation
+# basha1
 
 Yet another totally uselessness stuff. Don't ask me why ... 
 
