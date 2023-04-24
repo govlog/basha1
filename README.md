@@ -1,4 +1,4 @@
-# SHA1_in_pure_bash
+# A compact (yet limited) bash sha1 implementation
 
 Yet another totally uselessness stuff. Don't ask me why ... 
 
